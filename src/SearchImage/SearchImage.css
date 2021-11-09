@@ -1,0 +1,23 @@
+.input{
+    border-radius: 10px;
+    text-align: center;
+    color: purple;
+}
+
+
+.card{
+    width:18rem;
+}
+
+.img{
+     width: 285px;
+     height:285px;
+     text-align: center;
+}
+
+.conta{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
